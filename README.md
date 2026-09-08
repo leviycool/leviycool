@@ -24,8 +24,8 @@ I'm a **Columbia QMSS master's student** working across **quantitative research,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/leviycool/stock-news-market-prediction">♡ Stock News Market Prediction</a></strong>
-      <p>NLP classification of daily news headlines using TF-IDF / count features and classical machine-learning models.</p>
+      <strong><a href="https://github.com/leviycool/stock-news-market-prediction">Stock News Market Prediction</a></strong>
+      <p>Classical NLP models for daily news headlines, with Count/TF-IDF features, training-only feature fitting, and chronological evaluation.</p>
       <sub>Python · NLP · scikit-learn · Machine Learning</sub>
     </td>
     <td width="50%" valign="top">
