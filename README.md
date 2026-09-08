@@ -22,10 +22,10 @@ I'm a **Columbia QMSS master's student** working at the intersection of **Comput
     </td>
     <td width="50%" valign="top">
       <img src="assets/project-mail.svg" width="440" alt="MAIL_01 — Local Application">
-      <strong>Daily Email Digest</strong>
+      <strong><a href="https://github.com/leviycool/daily-email-digest">Daily Email Digest</a></strong>
       <p>IMAP retrieval and rule-based triage, with scheduled local digests and a SQLite cache.</p>
       <sub>Python · IMAP · SQLite · Tkinter</sub>
-      <p><code>LOCAL PROJECT</code></p>
+      <p><a href="https://github.com/leviycool/daily-email-digest"><code>OPEN ↗</code></a></p>
     </td>
   </tr>
   <tr>
@@ -45,8 +45,6 @@ I'm a **Columbia QMSS master's student** working at the intersection of **Comput
     </td>
   </tr>
 </table>
-
-<sub>Daily Email Digest is a local project; a public repository is not yet available.</sub>
 
 ## Professional Contributions
 
