@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="292" viewBox="0 0 960 292" role="img" aria-labelledby="title desc">
- <title id="title">♡ hello, i'm Levi ♡</title><desc id="desc">quantitative social science · data · ai. columbia university · new york. Original pink pixel research notebook illustration.</desc>
+ <title id="title">♡ Hello, I'm Levi ♡</title><desc id="desc">Quantitative Social Science · Data · AI. Columbia University · New York. Original pink pixel research notebook illustration.</desc>
  <rect x="1" y="1" width="958" height="290" rx="10" fill="#fff8fa" stroke="#f6cbd5"/>
  <path d="M24 1V291" stroke="#f6cbd5"/>
  <g fill="#f6cbd5"><rect x="8" y="36" width="6" height="6"/><rect x="8" y="250" width="6" height="6"/></g>
  <text x="54" y="54" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.8" fill="#805364">A LITTLE RESEARCH NOTEBOOK</text>
- <text x="52" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.6" fill="#4a3540">♡ hello, i'm Levi ♡</text>
- <text x="55" y="177" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#a94f6b">quantitative social science · data · ai</text>
- <text x="55" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".6" fill="#805364">columbia university · new york</text>
+ <text x="52" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.6" fill="#4a3540">♡ Hello, I'm Levi ♡</text>
+ <text x="55" y="177" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#a94f6b">Quantitative Social Science · Data · AI</text>
+ <text x="55" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".6" fill="#805364">Columbia University · New York</text>
  <path d="M55 246h110" stroke="#f6cbd5"/>
  <g fill="#a94f6b"><path d="M12 0H16V8H24V12H32V16H24V20H16V28H12V20H4V16H0V12H8V8H12Z" transform="translate(621 45) scale(.55)"/></g>
  <g transform="translate(676 66)">
@@ -14,7 +14,7 @@
  <rect width="222" height="166" rx="3" fill="#fdecef" stroke="#f6cbd5"/>
  <path d="M0 28H222" stroke="#f6cbd5"/>
  <g fill="#a94f6b"><rect x="12" y="11" width="6" height="6"/><rect x="24" y="11" width="6" height="6"/><rect x="36" y="11" width="6" height="6"/></g>
- <text x="205" y="19" text-anchor="end" font-size="10" letter-spacing="1.3" fill="#805364" font-family="monospace">FIELD NOTES</text>
+ <text x="205" y="19" text-anchor="end" font-size="10" letter-spacing="1.3" fill="#805364" font-family="monospace">Field Notes</text>
  <path d="M28 48V142H200M28 112H200M28 82H200M68 48V142M108 48V142M148 48V142M188 48V142" fill="none" stroke="#eeced8"/>
  <path d="M43 120L80 103L117 115L152 82L187 63" fill="none" stroke="#a94f6b" stroke-width="2"/>
  <g fill="#a94f6b"><path d="M0 4H4V0H12V4H16V0H24V4H28V12H24V16H20V20H16V24H12V20H8V16H4V12H0Z" transform="translate(36 113) scale(.5)"/><path d="M0 4H4V0H12V4H16V0H24V4H28V12H24V16H20V20H16V24H12V20H8V16H4V12H0Z" transform="translate(73 96) scale(.5)"/><path d="M0 4H4V0H12V4H16V0H24V4H28V12H24V16H20V20H16V24H12V20H8V16H4V12H0Z" transform="translate(110 108) scale(.5)"/><path d="M0 4H4V0H12V4H16V0H24V4H28V12H24V16H20V20H16V24H12V20H8V16H4V12H0Z" transform="translate(145 75) scale(.5)"/><path d="M12 0H16V8H24V12H32V16H24V20H16V28H12V20H4V16H0V12H8V8H12Z" transform="translate(178 53) scale(.65)"/></g>

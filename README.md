@@ -2,12 +2,12 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header.svg" width="960" alt="♡ hello, i'm Levi ♡ — quantitative social science · data · ai — columbia university · new york">
+  <img src="assets/header.svg" width="960" alt="♡ Hello, I'm Levi ♡ — Quantitative Social Science · Data · AI — Columbia University · New York">
 </picture>
 
 I'm a **Columbia QMSS master's student** working across **quantitative research, data, and AI**. I build reproducible workflows for messy data and practical tools for research.
 
-## ୨୧ selected work
+## ୨୧ Selected Work
 
 <table>
   <tr>
@@ -38,36 +38,36 @@ I'm a **Columbia QMSS master's student** working across **quantitative research,
 
 <sub>Daily Email Digest is a local project; a public repository is not yet available.</sub>
 
-## ♡ professional contributions
+## ♡ Professional Contributions
 
 Contributions to public repositories maintained by World Bank DIME.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/dime-worldbank/mega-boost">mega-boost</a></strong>
+      <strong><a href="https://github.com/dime-worldbank/mega-boost">MEGA-BOOST</a></strong>
       <p>Contributed to country-level ETL, validation, and harmonization for public finance data, including Burundi onboarding and Albania export fixes.</p>
       <sub>Python · Databricks · ETL · Data Validation</sub>
-      <p><sub>Merged contributions: <a href="https://github.com/dime-worldbank/mega-boost/pull/62">#62</a> · <a href="https://github.com/dime-worldbank/mega-boost/pull/60">#60</a></sub></p>
+      <p><sub>Merged Contributions: <a href="https://github.com/dime-worldbank/mega-boost/pull/62">#62</a> · <a href="https://github.com/dime-worldbank/mega-boost/pull/60">#60</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/dime-worldbank/mega-indicators">mega-indicators</a></strong>
+      <strong><a href="https://github.com/dime-worldbank/mega-indicators">MEGA-Indicators</a></strong>
       <p>Contributed to Burundi and Albania subnational population pipelines, including data quality fixes and region-name harmonization.</p>
       <sub>Python · Data Pipelines · Databricks · Data Quality</sub>
-      <p><sub>Merged contributions: <a href="https://github.com/dime-worldbank/mega-indicators/pull/39">#39</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/31">#31</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/30">#30</a></sub></p>
+      <p><sub>Merged Contributions: <a href="https://github.com/dime-worldbank/mega-indicators/pull/39">#39</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/31">#31</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/30">#30</a></sub></p>
     </td>
   </tr>
 </table>
 
-### ♡ research & interests
+### ♡ Research & Interests
 
-Computational social science · Development research · Applied ML & NLP · Causal inference · Reproducible data workflows
+Computational Social Science · Development Research · Applied ML & NLP · Causal Inference · Reproducible Data Workflows
 
-### ✦ toolkit
+### ✦ Toolkit
 
 `Python` · `R` · `SQL` · `Git` · `Tableau`
 
-### ୨୧ currently
+### ୨୧ Currently
 
 M.A. in **Quantitative Methods in the Social Sciences**, Columbia University  
 Expected December 2026 · New York
@@ -76,8 +76,8 @@ Expected December 2026 · New York
 
 <img src="assets/pixel-decoration.svg" align="right" width="96" alt="Pink pixel laptop with a tiny heart chart">
 
-### ୨୧ outside the terminal
+### ୨୧ Outside the Terminal
 
 🎮 Cyberpunk 2077 · Splatoon 3  
-🏓 Table tennis  
+🏓 Table Tennis  
 ♡ Building tiny tools for tiny problems

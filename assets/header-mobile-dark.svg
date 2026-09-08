@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="294" viewBox="0 0 480 294" role="img" aria-labelledby="title desc">
- <title id="title">♡ hello, i'm Levi ♡</title><desc id="desc">quantitative social science · data · ai. columbia university · new york. Original pink pixel research notebook illustration.</desc>
+ <title id="title">♡ Hello, I'm Levi ♡</title><desc id="desc">Quantitative Social Science · Data · AI. Columbia University · New York. Original pink pixel research notebook illustration.</desc>
  <rect x="1" y="1" width="478" height="292" rx="10" fill="#211b23" stroke="#694151"/>
  <path d="M24 1V293" stroke="#694151"/>
  <g fill="#694151"><rect x="8" y="36" width="6" height="6"/><rect x="8" y="252" width="6" height="6"/></g>
  <text x="46" y="47" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.8" fill="#d7adbc">A LITTLE RESEARCH NOTEBOOK</text>
- <text x="46" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="-1.6" fill="#fff0f4">♡ hello, i'm Levi ♡</text>
- <text x="48" y="162" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#f2a9c2">quantitative social science · data · ai</text>
- <text x="48" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".6" fill="#d7adbc">columbia university · new york</text>
+ <text x="46" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="-1.6" fill="#fff0f4">♡ Hello, I'm Levi ♡</text>
+ <text x="48" y="162" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#f2a9c2">Quantitative Social Science · Data · AI</text>
+ <text x="48" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".6" fill="#d7adbc">Columbia University · New York</text>
  <path d="M48 233h260" stroke="#694151"/>
  <g fill="#f2a9c2"><path d="M12 0H16V8H24V12H32V16H24V20H16V28H12V20H4V16H0V12H8V8H12Z" transform="translate(410 232) scale(.55)"/></g>
  
