@@ -59,14 +59,12 @@ Contributions to public repositories maintained by World Bank DIME.
       <strong><a href="https://github.com/dime-worldbank/mega-boost">MEGA-BOOST</a></strong>
       <p>Contributed to country-level ETL, validation, and harmonization for public finance data, including Burundi onboarding and Albania export fixes.</p>
       <sub>Python · Databricks · ETL · Data Validation</sub>
-      <p><sub>Merged Contributions: <a href="https://github.com/dime-worldbank/mega-boost/pull/62">#62</a> · <a href="https://github.com/dime-worldbank/mega-boost/pull/60">#60</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/archive-indicators.svg" width="440" alt="Work Archive — Population Data">
       <strong><a href="https://github.com/dime-worldbank/mega-indicators">MEGA-Indicators</a></strong>
       <p>Contributed to Burundi and Albania subnational population pipelines, including data quality fixes and region-name harmonization.</p>
       <sub>Python · Data Pipelines · Databricks · Data Quality</sub>
-      <p><sub>Merged Contributions: <a href="https://github.com/dime-worldbank/mega-indicators/pull/39">#39</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/31">#31</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/30">#30</a></sub></p>
     </td>
   </tr>
 </table>
