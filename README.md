@@ -91,10 +91,7 @@ Expected December 2026 · New York
 
 <sub><code>USER PROFILE</code></sub>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/pixel-decoration.svg">
-  <img src="assets/pixel-cat-idle.gif" align="right" width="160" alt="Original tiny pink pixel cat blinking and gently moving its tail above a silver game controller">
-</picture>
+<img src="assets/pixel-decoration.svg" align="right" width="160" alt="Original pink pixel cat and silver game controller">
 
 **Levi** · <code>STATUS: ONLINE</code>
 

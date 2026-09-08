@@ -8,7 +8,7 @@
 <radialGradient id="disc" cx=".3" cy=".25"><stop stop-color="#fff"/><stop offset=".35" stop-color="#ffd8f4"/><stop offset=".55" stop-color="#c3cce5"/><stop offset=".75" stop-color="#f5efff"/><stop offset="1" stop-color="#c9b2cf"/></radialGradient>
 </defs><rect x="5" y="18" width="182" height="143" rx="16" fill="url(#panel)" stroke="#c4adc6"/>
 <rect x="6" y="19" width="180" height="28" rx="14" fill="url(#pink)"/>
-<text x="20" y="37" font-family="monospace" font-size="10" fill="#653654" >Play</text>
+<text x="20" y="37" font-family="monospace" font-size="10" fill="#653654" >Outside the Terminal</text>
 <path d="M54 85c-13-1-19 7-23 24l-6 26c-2 9 7 14 14 8l20-15h73l20 15c7 6 16 1 14-8l-6-26c-4-17-10-25-23-24l-20 5H74z" fill="url(#chrome)" stroke="#9d85a9" stroke-width="2"/>
 <path d="M51 100h9v9h9v9h-9v9h-9v-9h-9v-9h9z" fill="#8b607e"/>
 <g fill="#ef8fc6" stroke="#ac6698"><circle cx="134" cy="103" r="5"/><circle cx="147" cy="115" r="5"/><circle cx="121" cy="115" r="5"/><circle cx="134" cy="127" r="5"/></g>
