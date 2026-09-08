@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="104" viewBox="0 0 128 104" role="img" aria-labelledby="t d">
-<title id="t">Tiny Pink Data Laptop</title><desc id="d">Original pixel laptop with a heart at the end of a small chart.</desc>
-<g shape-rendering="crispEdges">
-<path d="M20 16H108V20H112V76H16V20H20Z" fill="#a94f6b"/>
-<path d="M24 24H104V68H24Z" fill="#fff8fa"/>
-<path d="M32 34V60H92M32 48H92M52 32V60M72 32V60" fill="none" stroke="#f6cbd5" stroke-width="2"/>
-<path d="M36 54H46V46H58V50H70V38H82" fill="none" stroke="#a94f6b" stroke-width="3"/>
-<path d="M0 4H4V0H12V4H16V0H24V4H28V12H24V16H20V20H16V24H12V20H8V16H4V12H0Z" transform="translate(77 27) scale(.6)" fill="#a94f6b"/>
-<path d="M16 76H112V80H120V88H8V80H16Z" fill="#f6cbd5"/>
-<path d="M8 88H120V92H8Z" fill="#a94f6b"/>
-<path d="M48 76H80V82H48Z" fill="#d98fa2"/>
-<path d="M12 0H16V8H24V12H32V16H24V20H16V28H12V20H4V16H0V12H8V8H12Z" transform="translate(4 2) scale(.42)" fill="#d98fa2"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="172" viewBox="0 0 192 172" role="img" aria-labelledby="title desc">
+<title id="title">After Hours: Pixel Cat and Game Controller</title><desc id="desc">Original pink pixel cat peeking over a small desktop window with a generic silver game controller.</desc>
+<defs>
+<linearGradient id="desktop" x2="1" y2="1"><stop stop-color="#ffe7f2"/><stop offset=".55" stop-color="#ffd1ea"/><stop offset="1" stop-color="#e8e0ff"/></linearGradient>
+<linearGradient id="chrome" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".35" stop-color="#edf0f7"/><stop offset=".52" stop-color="#b9b3c7"/><stop offset=".7" stop-color="#f9f4fc"/><stop offset="1" stop-color="#cec4d6"/></linearGradient>
+<linearGradient id="pink" x2="0" y2="1"><stop stop-color="#fff3fb"/><stop offset=".45" stop-color="#ffc3e4"/><stop offset="1" stop-color="#ef8fc6"/></linearGradient>
+<linearGradient id="panel" x2="0" y2="1"><stop stop-color="#fffafd"/><stop offset="1" stop-color="#ffeaf6"/></linearGradient>
+<radialGradient id="disc" cx=".3" cy=".25"><stop stop-color="#fff"/><stop offset=".35" stop-color="#ffd8f4"/><stop offset=".55" stop-color="#c3cce5"/><stop offset=".75" stop-color="#f5efff"/><stop offset="1" stop-color="#c9b2cf"/></radialGradient>
+</defs><rect x="5" y="18" width="182" height="143" rx="16" fill="url(#panel)" stroke="#c4adc6"/>
+<rect x="6" y="19" width="180" height="28" rx="14" fill="url(#pink)"/>
+<text x="20" y="37" font-family="monospace" font-size="10" fill="#653654" >AFTER HOURS</text>
+<path d="M54 85c-13-1-19 7-23 24l-6 26c-2 9 7 14 14 8l20-15h73l20 15c7 6 16 1 14-8l-6-26c-4-17-10-25-23-24l-20 5H74z" fill="url(#chrome)" stroke="#9d85a9" stroke-width="2"/>
+<path d="M51 100h9v9h9v9h-9v9h-9v-9h-9v-9h9z" fill="#8b607e"/>
+<g fill="#ef8fc6" stroke="#ac6698"><circle cx="134" cy="103" r="5"/><circle cx="147" cy="115" r="5"/><circle cx="121" cy="115" r="5"/><circle cx="134" cy="127" r="5"/></g>
+<g shape-rendering="crispEdges" transform="translate(109 0)"><path d="M0 4h8v4h8V0h8v20h4v16h-4v8H0v-8h-4V20H0z" fill="#efa0cf" stroke="#8f5e84" stroke-width="2"/><path d="M4 21h4v4H4zm12 0h4v4h-4z" fill="#503048"/><path d="M10 28h4v4h-4z" fill="#fff3fb"/><path d="M27 33h9v-9h5v14H27z" fill="#efa0cf" stroke="#8f5e84" stroke-width="2"/></g>
+
+</svg>
