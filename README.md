@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header.svg" width="960" alt="♡ hello, i'm levi ♡ — quantitative social science · data · ai — columbia university · new york">
+  <img src="assets/header.svg" width="960" alt="♡ hello, i'm Levi ♡ — quantitative social science · data · ai — columbia university · new york">
 </picture>
 
 I'm a **Columbia QMSS master's student** working across **quantitative research, data, and AI**. I build reproducible workflows for messy data and practical tools for research.
