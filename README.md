@@ -38,6 +38,27 @@ I'm a **Columbia QMSS master's student** working across **quantitative research,
 
 <sub>Daily Email Digest and Stock Movement from News are local projects; public repositories are not yet available.</sub>
 
+## ♡ professional contributions
+
+Contributions to public repositories maintained by World Bank DIME.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/dime-worldbank/mega-boost">mega-boost</a></strong>
+      <p>Contributed to country-level ETL, validation, and harmonization for public finance data, including Burundi onboarding and Albania export fixes.</p>
+      <sub>Python · Databricks · ETL · Data Validation</sub>
+      <p><sub>Merged contributions: <a href="https://github.com/dime-worldbank/mega-boost/pull/62">#62</a> · <a href="https://github.com/dime-worldbank/mega-boost/pull/60">#60</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/dime-worldbank/mega-indicators">mega-indicators</a></strong>
+      <p>Contributed to Burundi and Albania subnational population pipelines, including data quality fixes and region-name harmonization.</p>
+      <sub>Python · Data Pipelines · Databricks · Data Quality</sub>
+      <p><sub>Merged contributions: <a href="https://github.com/dime-worldbank/mega-indicators/pull/39">#39</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/31">#31</a> · <a href="https://github.com/dime-worldbank/mega-indicators/pull/30">#30</a></sub></p>
+    </td>
+  </tr>
+</table>
+
 ### ♡ research & interests
 
 Computational social science · Development research · Applied ML & NLP · Causal inference · Reproducible data workflows
